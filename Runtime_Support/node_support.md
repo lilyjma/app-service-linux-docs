@@ -10,7 +10,7 @@ Once a version of Node.js has reached it's end of life (EOL) it will no longer b
 
 Existing applications configured to target a runtime version that has reached EOL should not be affected.
 
-On April 30th, 2022 Node 12 will no longer be offered as an option in the create process for App Service. Existing apps targeting Node 12 will not be affected.  We recommend migrating your application to Node 14 LTS.  See our guidance [below](#how-to-update-your-app-to-target-a-different-version-of-node) to target a new version.
+On April 30th, 2022 Node 12 will no longer be offered as an option in the create process for App Service. Existing apps targeting Node 12 will not be affected.  We recommend migrating your application to the latest LTS version.  See our guidance [below](#how-to-update-your-app-to-target-a-different-version-of-node) to target a new version.
 
 ## Support Timeline
 
